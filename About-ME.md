@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @Shubham3871
-- 👀 I’m interested in Machine Learning, Face Recognition, and Data Science.
-- 🌱 I’m currently learning advanced techniques in Deep Learning and AI-driven applications.
-- 💞️ I’m looking to collaborate on innovative AI and ML projects.
-- 📫 How to reach me: shubhamgaikwad9054@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving complex problems with simple code!
